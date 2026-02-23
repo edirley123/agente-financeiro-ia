@@ -1,0 +1,6 @@
+[
+  {"nome": "Tesouro Selic", "tipo": "Renda Fixa", "risco": "Baixo", "rentabilidade": "11.75% a.a."},
+  {"nome": "CDB Banco X", "tipo": "Renda Fixa", "risco": "Baixo", "rentabilidade": "110% CDI"},
+  {"nome": "Fundo Ibovespa", "tipo": "Renda Variável", "risco": "Alto", "rentabilidade": "Variável"},
+  {"nome": "ETF S&P 500", "tipo": "Internacional", "risco": "Médio", "rentabilidade": "Variável"}
+]

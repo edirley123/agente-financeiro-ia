@@ -1,0 +1,6 @@
+id,data,descricao,categoria,valor,tipo
+1,2026-02-01,Supermercado BH,Alimentação,-350.00,debito
+2,2026-02-05,Salário Mensal,Renda,10600.00,credito
+3,2026-02-10,Posto Shell,Transporte,-200.00,debito
+4,2026-02-15,Academia,Saúde,-150.00,debito
+5,2026-02-20,Netflix,Lazer,-55.90,debito
